@@ -1,8 +1,8 @@
 class Skulls < Formula
   desc "Dead simple skills installer"
   homepage "https://github.com/kaofelix/skulls"
-  url "https://github.com/kaofelix/skulls/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "15faa2f919223b8d76f5a3a9771c37d725fa36e781d67f27ed1566d74aa5d514"
+  url "https://github.com/kaofelix/skulls/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "b70fdcf902e2b52fc7b303519e5216ca5a2e65eaf7db97fd308e61e77657d251"
 
   depends_on "go" => :build
 
